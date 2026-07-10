@@ -51,8 +51,8 @@ Built with **Python**, **Gradio**, and the **Groq API**, this chatbot acts as a 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-portfolio.git
-cd ai-portfolio
+git clone https://github.com/Abhinav1190P/portfolio-twin-ai.git
+cd portfolio-twin-ai
 ```
 
 ### 2. Create a virtual environment
