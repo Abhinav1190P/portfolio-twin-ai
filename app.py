@@ -586,4 +586,10 @@ def build_demo() -> gr.Blocks:
 
 if __name__ == "__main__":
     demo = build_demo()
-    demo.launch(theme=theme, css=custom_css, inbrowser=True)
+    demo.launch(
+    server_name="0.0.0.0",
+    server_port=int(os.environ.get("PORT", 7860)),
+    theme=theme,
+    css=custom_css,
+    head=FORCE_LIGHT_HEAD,
+    )
