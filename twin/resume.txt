@@ -1,0 +1,113 @@
+ABHINAV PANDEY
+ 
+Bengaluru | +91 8799817029 | pandeysandeep1190@gmail.com | LeetCode
+Summary
+Full  Stack  Software  Engineer  with  proven  experience  building  scalable,  production-ready  web  applications  and  enterprise 
+platforms using React.js, Node.js, MongoDB, Express.js, Firebase, and Redux. Delivered high-impact features across AI-integrated  
+systems,  data-intensive  dashboards,  and  KPI-driven  analytics  at  Harman  (IQVIA),  with  strong  ownership  of  end-to-end 
+development. Highly skilled in designing secure authentication flows, RESTful APIs, complex pagination, search and sorting logic,  
+and responsive UI architectures. Recognized for hackathon-winning solutions, open-source contributions, and consistent delivery  
+of clean, maintainable code in real-world environments.
+Skills
+ Full Stack Web Development (MERN Stack)
+ Frontend Architecture & Component Design
+ Backend API Development & Integration
+ RESTful Services & CRUD Operations
+ Authentication & Authorization (Firebase, JWT concepts)
+ State Management using Redux
+ Chrome Extension Development
+ Cloud-Based Application Development
+ AI Module Integration (Agentic AI)
+ Data Visualization & KPI Dashboards
+ Pagination, Search & Sorting Implementation
+ Performance Optimization & UI Debugging
+ Secure Application Design
+ Scalable System Architecture
+ Cross-Functional Collaboration
+ Agile Development & Version Control (Git)
+Experience
+Software Engineer  12/2024 to Present 
+Harman Connected Services (Client: IQVIA)  India 
+ Architected and integrated Agentic AI–based modules for ROM estimation, capacity forecasting, testing workflows, and  
+requirements management, enabling data-driven project planning and execution across 8+ active projects and cutting  
+manual estimation turnaround time by ~20%.
+ Engineered scalable server-side pagination  for 10+ enterprise-grade tables , efficiently handling large, complex datasets  
+aggregated from multiple backend systems, with individual tables scaling to 5,000+ records and page load time reduced  
+by ~30%.
+ Implemented month-over-month variance analysis logic , supporting accurate trend comparison across 15 KPIs between  
+historical and upcoming monthly datasets for 10+ stakeholders.
+ Diagnosed and resolved 40+ UI, functional, and performance defects , cutting page load time by ~25% and resulting in a  
+smoother, more reliable, and user-friendly application experience.
+ Designed and delivered  KPI dashboards  presenting  six months of historical performance data , embedded within the  
+Project Performance tab for comprehensive annual analysis, adopted by 50+ users across 6+ teams.
+ Developed an organization-wide announcement framework , enabling centralized, scalable communication across 12+  
+organizational units and 300+ users.
+ Built  interactive,  drill-down  monthly  data  visualizations as  part  of  a  “Details  on  Demand” feature,  improving  data 
+transparency and decision-making for 100+ daily active users.
+ Implemented advanced search and multi-column sorting capabilities across 15+ paginated tables, cutting average time-
+to-find-record by ~30%.
+Full Stack Developer Intern  12/2023 to 02/2024 
+Krunk.AI  India 
+ Bootstrapped and structured a React.js application from the ground up, configuring React Router with fallback routes for 
+seamless navigation and robust error handling across 10+ pages/routes.
+ Integrated Firebase services into the frontend, establishing a global authentication and authorization context  across 8+  
+modules in the application.
+ Implemented complete user authentication workflows , including Sign-Up, Login, and email verification, ensuring secure  
+user access.
+ Designed  and  developed  dashboard  interfaces  from  scratch,  integrating  real-time  Firebase  functionality  across  all 
+modules.
+ Applied responsive design principles and reusable UI components to ensure a consistent and intuitive user experience.
+Chrome Extension Developer Intern  11/2022 to 01/2023 
+ClickUp  India 
+ Developed “To-Doist for ClickUp,”  a Chrome extension using React and Babel , used by 50+ testers/users during pilot to  
+manage tasks directly within the browser environment.
+ Implemented seamless management of workspaces, spaces, teams, folders, and tasks , eliminating the need to navigate  
+to the ClickUp web platform.
+ Enabled full task lifecycle management (CRUD operations), improving productivity and task organization.
+ Integrated workspace connectivity to ensure smooth task synchronization and real-time updates from the extension.
+Data Structures & Algorithms (LeetCode)
+ Actively practicing Data Structures & Algorithms using LeetCode, following a structured, topic-wise preparation approach.
+ Covered core DSA topics including  Arrays, Strings, Linked Lists, Stacks, Queues, Hash Tables, Recursion, Trees, Binary  
+Search Trees, Heaps, Graphs, and Dynamic Programming.
+ Strong focus on problem-solving, algorithmic thinking, time and space complexity optimization, and edge-case handling.
+ Implementing solutions primarily in JavaScript, aligning with backend and full-stack development requirements.
+Projects
+InstaPM
+ Contributed  to  a  cloud-based  project  management  platform,  handling  both  frontend  and  backend  development 
+responsibilities.
+ Delivered 7 successfully merged pull requests, enhancing platform functionality, performance, and stability.
+ Implemented Redux for scalable and efficient state management across the frontend application.
+ Integrated a chatbot feature to improve user engagement and platform support capabilities.
+ Designed URL-driven routing aligned with UI tabs, improving navigation clarity and user experience.
+Subs4Sale
+ Designed and developed  Subs4Sale, a  freelancer–client marketplace platform  similar to Fiverr using the  MERN stack , 
+completed within 1.4 weeks.
+ Implemented essential marketplace features including secure authentication, real-time chat, transaction workflows, and  
+ratings & reviews.
+ Built frontend interfaces using React.js, backend REST APIs using Node.js and Express.js , and database architecture with  
+MongoDB.
+ Published and documented the project on GitHub, enabling code transparency and collaboration.
+ShareVibe
+ Built ShareVibe, a full-scale social media platform using the MERN stack.
+ Implemented  user authentication , social networking features, text and image posts, group management, and event  
+reminders.
+ Integrated Python-based voice denoising, Cloudinary for media storage, and Zeegocloud for real-time video calling.
+ Architected a scalable backend to support high-traffic, media-intensive, and real-time communication features.
+Accomplishments
+Smart India Hackathon 2022 – Winner
+ Developed an AICTE Grievance Management Portal  enabling HEIs to submit authenticated grievances with supporting  
+documentation.
+ Implemented a time-bound automated grievance resolution workflow, ensuring accountability and transparency.
+ Designed an appreciation and ranking system  to recognize departments and individuals based on grievance resolution  
+performance.
+ Enabled two-way communication between HEIs and regulatory bodies for real-time grievance tracking and resolution,  
+earning recognition as the winning solution among 200+ competing teams.
+Tantrotsav Hackathon – First Runner-Up
+ Developed a MERN stack–based social media application  with secure authentication, text and image posting, and real-
+time messaging.
+ Integrated Cloudinary for optimized media handling and Zeegocloud for video call functionality.
+ Implemented robust backend security mechanisms to ensure secure and efficient data exchange.
+ Designed a scalable backend architecture to support high user interaction and real-time communication.
+Education
+Bachelor of Engineering  2024 
+Mumbai University  Mumbai #HRJ#19823a3b-3ecb-45a7-9305-e7810f1ffc17#
